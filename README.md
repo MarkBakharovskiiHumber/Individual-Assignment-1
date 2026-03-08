@@ -6,21 +6,21 @@ A React & Next.js web application demonstrating all five assignment objectives.
 
 
 student-app/
-├── app/
-│   ├── globals.css    Global CSS styles & design tokens
-│   ├── layout.js      Root HTML layout wrapper
-│   ├── page.js        Home page (/)
-│   ├── quiz/
+├ app/
+│   ├ globals.css    Global CSS styles & design tokens
+│   ├ layout.js      Root HTML layout wrapper
+│   ├ page.js        Home page (/)
+│   ├ quiz/
 │   │   └── page.js    Quiz page (/quiz)
-│   ├── todo/
-│   │   └── page.js    Task Manager (/todo)
-│   └── about/
-│       └── page.js    About page (/about)
-├── components/
-│   ├── Navbar.js      Sticky navigation bar
-│   └── Footer.js      Page footer
-├── next.config.js
-└── package.json
+│   ├ todo/
+│   │   └ page.js    Task Manager (/todo)
+│   └ about/
+│       └ page.js    About page (/about)
+├ components/
+│   ├ Navbar.js      Sticky navigation bar
+│   └ Footer.js      Page footer
+├ next.config.js
+└ package.json
 
 ##  Assignment Objectives Met
 
