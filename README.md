@@ -65,7 +65,7 @@ student-app/
 - Smooth animations with `fadeInUp` and staggered delays
 - Interactive hover states, focus rings, and transitions
 
-## 🎨 Design Decisions
+## Design Decisions
 
 - **Aesthetic**: Editorial / typographic — cream background, ink typography, accent red
 - **Accessibility**: Semantic HTML, `aria-label` on icon buttons, focus styles
